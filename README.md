@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+My name is Wiridlangit Suluh Jiwangga, i am currently an Information Technology student at Institut Teknologi Sepuluh Nopember (ITS). Aspiring to contribute and be meritorious in smart cities development by applying cutting- edge technologies such as IoT, Mobile Development, Cyber Security, Cloud Computing, and AI. Not only a dreamer, but also a doer. Actively participating in projects and organizations. Believing to be a catalyst for change and innovation in the world.
