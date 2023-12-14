@@ -1,4 +1,17 @@
-### Hi there 👋
+# Hello there 👋
+ <div id="header" align="center">
+  <img src="https://media.giphy.com/media/l1J9FtGm9VNUerkRi/giphy-downsized-large.gif" width="500"/>
+</div>
+<br>
+
+<div id="badges">
+  <a href="https://linkedin.com/in/wiridlangit">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://www.kaggle.com/wiridlangit">
+    <img src="https://img.shields.io/badge/Kaggle-white?style=for-the-badge&logo=kaggle&logoColor=blue" alt="Kaggle"/>
+  </a>
+</div>
 
 <!--
 **wiridlangit/wiridlangit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,4 +29,12 @@ Here are some ideas to get you started:
 -->
 
 
-My name is Wiridlangit Suluh Jiwangga, i am currently an Information Technology student at Institut Teknologi Sepuluh Nopember (ITS). Aspiring to contribute and be meritorious in smart cities development by applying cutting- edge technologies such as IoT, Mobile Development, Cyber Security, Cloud Computing, and AI. Not only a dreamer, but also a doer. Actively participating in projects and organizations. Believing to be a catalyst for change and innovation in the world.
+My name is Wiridlangit Suluh Jiwangga, affectionately known as Wirid or Sky among my friends!
+
+- 🔭 Currently, I am an undergraduate student pursuing Information Technology at Institut Teknologi of Sepuluh Nopember (ITS). 
+
+- 🌱 My ambition revolves around making meaningful contributions to the development of smart cities. I am passionate about leveraging cutting-edge technologies, including IoT, Mobile Development, Cyber Security, Cloud Computing, and AI.
+
+- ⚡ Fun fact: I don't just dream—I take action!
+
+ 
