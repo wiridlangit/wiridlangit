@@ -1,10 +1,12 @@
-# Hello there 👋
+<div align="center">
+<h1>Hello there 👋</h1> 
+</div>
  <div id="header" align="center">
   <img src="https://media.giphy.com/media/l1J9FtGm9VNUerkRi/giphy-downsized-large.gif" width="500"/>
 </div>
 <br>
 
-<div id="badges">
+<div id="badges" align="center">
   <a href="https://linkedin.com/in/wiridlangit">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -28,6 +30,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<div>
+<h2>About Me 🤔</h2> 
+</div>
 
 My name is Wiridlangit Suluh Jiwangga, affectionately known as Wirid or Sky among my friends!
 
