@@ -1,5 +1,5 @@
-<div align="center">
-<h1>Hello there 👋</h1> 
+![banner_wiridlangit_sosmed](https://github.com/wiridlangit/wiridlangit/assets/113527799/81567775-5fbf-4894-a781-0ef125c38810)<div align="center">
+
 </div>
  <div id="header" align="center">
   <img src="https://media.giphy.com/media/l1J9FtGm9VNUerkRi/giphy-downsized-large.gif" width="500"/>
