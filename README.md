@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 <h2>About Me 🤔</h2> 
 </div>
 
-My name is Wiridlangit Suluh Jiwangga, affectionately known as Wirid or Sky among my friends!
+My name is Wiridlangit Suluh Jiwangga, affectionately known as Wirid, Langit or Sky among my friends!
 
 - 🔭 Currently, I am an undergraduate student pursuing Information Technology at Institut Teknologi of Sepuluh Nopember (ITS). 
 
