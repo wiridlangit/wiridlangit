@@ -40,5 +40,6 @@ My name is Wiridlangit Suluh Jiwangga, affectionately known as Wirid, Langit or 
 
 - ⚡ Fun fact: I don't just dream—I take action!
 
+ <br>
  
  <img src="https://media.giphy.com/media/l1J9FtGm9VNUerkRi/giphy-downsized-large.gif" width="500"/>
