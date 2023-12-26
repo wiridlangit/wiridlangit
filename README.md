@@ -42,4 +42,4 @@ My name is Wiridlangit Suluh Jiwangga, affectionately known as Wirid, Langit or 
 
  <br>
  
- <img src="https://media.giphy.com/media/l1J9FtGm9VNUerkRi/giphy-downsized-large.gif" width="500"/>
+ <img src="https://tenor.com/view/batman-bat-man-dc-triste-sad-gif-13436559475162856906" width="500"/>
