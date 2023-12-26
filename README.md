@@ -42,4 +42,7 @@ My name is Wiridlangit Suluh Jiwangga, affectionately known as Wirid, Langit or 
 
  <br>
  
- ![image](https://github.com/wiridlangit/wiridlangit/assets/113527799/bf0c5a4a-5fe7-4ae7-8bd3-290e19bddd5e)
+<p align="center">
+  <img src="https://media.giphy.com/media/26AHQ0XPcs6ncIBXy/giphy.gif" width="600">
+</p>
+
