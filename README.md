@@ -1,4 +1,4 @@
-![banner_wiridlangit_sosmed](https://github.com/wiridlangit/wiridlangit/assets/113527799/81567775-5fbf-4894-a781-0ef125c38810)<div align="center">
+![banner_wiridlangit_sosmed](![Frame 738](https://github.com/user-attachments/assets/71f9f136-a68e-44d2-aad3-9b853889a52e))<div align="center">
 
 </div>
  <div id="header" align="center">
