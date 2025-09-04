@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 My name is Wiridlangit Suluh Jiwangga, affectionately known as Wirid, Langit or Sky among my friends!
 
-- 🔭 Currently, I am an undergraduate student pursuing Information Technology at Institut Teknologi of Sepuluh Nopember (ITS). 
+- 🔭 Currently, I am graduated from Information Technology at Institut Teknologi of Sepuluh Nopember (ITS). 
 
 - 🌱 My ambition revolves around making meaningful contributions to the development of smart cities. I am passionate about leveraging cutting-edge technologies, including IoT, Mobile Development, Cyber Security, Cloud Computing, and AI.
 
